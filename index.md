@@ -1,9 +1,2 @@
 
-# Linux
-# Unix
-# Windows
-# Bash
-# Python
-# Markdown
-
-
+# Hello world!
