@@ -1,7 +1,4 @@
-<html>
-<title>System engineer's reference. Yogafire!</title>
 
-<xmp>
 # Linux
 # Unix
 # Windows
@@ -9,9 +6,4 @@
 # Python
 # Markdown
 
-
-</xmp>
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-
-</html>
 
